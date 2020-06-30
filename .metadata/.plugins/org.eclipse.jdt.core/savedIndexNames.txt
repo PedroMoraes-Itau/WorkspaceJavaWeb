@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+C:\Users\987271906\Desktop\CursoDoti\WorspaceJavaWeb\.metadata\.plugins\org.eclipse.jdt.core
+2772910626.index
